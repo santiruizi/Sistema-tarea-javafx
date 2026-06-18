@@ -77,8 +77,8 @@ El archivo `application.properties` configura la conexión a MariaDB:
 
 ```properties
 spring.datasource.url=jdbc:mariadb://localhost:3306/tareas_db?createDatabaseIfNotExist=true
-spring.datasource.username=root
-spring.datasource.password=12345
+spring.datasource.username=tu_usuario
+spring.datasource.password=tu_contrasena
 spring.datasource.driver-class-name=org.mariadb.jdbc.Driver
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
