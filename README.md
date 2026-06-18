@@ -192,13 +192,3 @@ Este proyecto fue desarrollado estrictamente como práctica educativa con los si
 - Practicar buenas prácticas de diseño orientado a objetos
 
 ---
-
-## 📄 Licencia
-
-Este proyecto es una práctica de aprendizaje educativo.
-
----
-
-## 👨‍💻 Autor
-
-Desarrollado como parte de un curso de aprendizaje de Java y Spring Boot.
