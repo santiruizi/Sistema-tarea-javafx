@@ -87,8 +87,8 @@ spring.main.web-application-type=none
 
 **Detalles importantes:**
 - Base de datos: `tareas_db` (creada automáticamente si no existe)
-- Usuario: `root`
-- Contraseña: `12345`
+- Usuario: `tu_usuario`
+- Contraseña: `tu_contrasena`
 - Estrategia DDL: `update` (actualiza el esquema automáticamente)
 - SQL logging habilitado para depuración
 - Tipo de aplicación: `none` (aplicación de escritorio, sin servidor web)
